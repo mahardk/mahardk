@@ -11,13 +11,23 @@ I'm currently focusing on enhancing my skills in back-end technology while plann
 - ⚡ Fun fact: Enthusiastic learner who enjoys exploring new technologies
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
 <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
 <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
 <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" /></a>
+<a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="21px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>
+<a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
+<a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" /></a>
+<a href="https://vercel.com/"><img align="left" alt="Vercel" title="Vercel" width="21px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" /></a>
+<a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi" width="21px" src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" /></a>
+<a href="https://expressjs.com/"><img align="left" alt="Express" title="Express" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></a>
+<a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /></a>
+<a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="21px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" /></a>
+<a href="https://git-scm.com/"><img align="left" alt="Git" title="Git" width="21px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
 <br>
 <br>
+
   
 ### Github Statistic
 <p align="left">
